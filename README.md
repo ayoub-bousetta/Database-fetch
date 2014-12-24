@@ -8,7 +8,7 @@ A Wordpress plugin that you can use to get data from any table in your databse {
 
 Next Step :
 
-Support One/Multi Database Fetch {.cvs for every database} Loading....<br>
+<strong>Support One/Multi Database Fetch {.cvs for every database} Loading....</strong><br>
 Support Field Select Fetch {So you can select the fields that you want to get} next...
 
 
